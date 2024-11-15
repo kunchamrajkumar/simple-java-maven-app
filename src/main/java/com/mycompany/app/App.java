@@ -5,7 +5,7 @@ package com.mycompany.app;
  */
 public class App {
 
-    private static final String MESSAGE = "Hello, We will learn how to automate springboot microservices builds using Jenkins pipeline!";
+    private static final String MESSAGE = "Hi, Welcome to Playershealth!";
 
     public App() {}
 
